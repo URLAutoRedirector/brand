@@ -1,1 +1,1 @@
-# UrlAutoRediretor-branding
+# Branding Materials of [URL Auto Redirector](https://github.com/crispgm/UrlAutoRedirector)
